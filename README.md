@@ -1,2 +1,1 @@
-# viz-matplotlib-class
-Matplotlib class materials
+## VISUALIZATION MATPLOTLIB CLASS MATERIALS
